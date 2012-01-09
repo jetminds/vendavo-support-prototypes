@@ -1,0 +1,1 @@
+@call java.exe -cp vendavo-support-prototype.jar com.vendavo.support.prototype.RenameWisely %1 %2

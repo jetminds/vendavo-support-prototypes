@@ -1,0 +1,1 @@
+call schtasks.exe /create /sc minute /mo 5 /tn "Vendavo Support Job - Show Instances" /tr e:\cvsroot\tools-management\ShowInstances.bat

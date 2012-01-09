@@ -1,0 +1,1 @@
+call schtasks.exe /delete /tn "Vendavo Support Job"

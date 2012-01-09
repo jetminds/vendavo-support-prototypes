@@ -1,0 +1,1 @@
+@call java.exe -cp vendavo-support-prototype.jar com.vendavo.support.prototype.DeployTool tools-for-deploy support-boxes.txt > deploy.log

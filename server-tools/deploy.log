@@ -1,0 +1,222 @@
+DeployTool, version 0.1.0
+Usage: DeployTool folderToCopy fileWithFoldersToCopy
+Processing deploy to:\\pso17\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\pso17\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\pso17\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\pso17\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\pso17\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\pso17\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\pso17\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\pso17\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\pso17\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\pso17\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\pso17\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\pso23\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\pso23\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\pso23\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\pso23\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\pso23\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\pso23\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\pso23\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\pso23\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\pso23\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\pso23\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\pso23\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\supwin01\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\supwin01\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\supwin01\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\supwin01\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\supwin01\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\supwin01\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\supwin01\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\supwin01\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\supwin01\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\supwin01\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\supwin01\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\supwin02\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\supwin02\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\supwin02\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\supwin02\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\supwin02\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\supwin02\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\supwin02\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\supwin02\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\supwin02\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\supwin02\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\supwin02\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\supwin03\cvsrtoot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\supwin03\cvsrtoot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\supwin03\cvsrtoot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\supwin03\cvsrtoot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\supwin03\cvsrtoot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\supwin03\cvsrtoot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\supwin03\cvsrtoot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\supwin03\cvsrtoot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\supwin03\cvsrtoot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\supwin03\cvsrtoot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\supwin03\cvsrtoot\tools\VendavoCheck.bat
+Processing deploy to:\\supwin05\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\supwin05\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\supwin05\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\supwin05\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\supwin05\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\supwin05\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\supwin05\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\supwin05\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\supwin05\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\supwin05\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\supwin05\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\supwin07\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\supwin07\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\supwin07\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\supwin07\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\supwin07\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\supwin07\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\supwin07\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\supwin07\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\supwin07\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\supwin07\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\supwin07\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\supwin09\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\supwin09\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\supwin09\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\supwin09\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\supwin09\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\supwin09\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\supwin09\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\supwin09\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\supwin09\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\supwin09\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\supwin09\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vs2\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vs2\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vs2\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vs2\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vs2\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vs2\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vs2\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vs2\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vs2\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vs2\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vs2\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vs4\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vs4\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vs4\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vs4\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vs4\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vs4\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vs4\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vs4\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vs4\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vs4\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vs4\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vs5\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vs5\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vs5\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vs5\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vs5\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vs5\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vs5\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vs5\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vs5\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vs5\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vs5\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vs7\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vs7\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vs7\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vs7\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vs7\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vs7\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vs7\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vs7\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vs7\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vs7\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vs7\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vsvm1\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vsvm1\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vsvm1\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vsvm1\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vsvm1\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vsvm1\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vsvm1\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vsvm1\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vsvm1\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vsvm1\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vsvm1\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vsvm2\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vsvm2\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vsvm2\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vsvm2\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vsvm2\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vsvm2\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vsvm2\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vsvm2\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vsvm2\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vsvm2\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vsvm2\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vsvm3\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vsvm3\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vsvm3\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vsvm3\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vsvm3\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vsvm3\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vsvm3\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vsvm3\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vsvm3\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vsvm3\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vsvm3\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vsvm4\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vsvm4\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vsvm4\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vsvm4\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vsvm4\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vsvm4\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vsvm4\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vsvm4\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vsvm4\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vsvm4\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vsvm4\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vsvm5\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vsvm5\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vsvm5\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vsvm5\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vsvm5\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vsvm5\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vsvm5\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vsvm5\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vsvm5\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vsvm5\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vsvm5\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vsvm6\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vsvm6\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vsvm6\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vsvm6\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vsvm6\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vsvm6\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vsvm6\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vsvm6\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vsvm6\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vsvm6\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vsvm6\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vsvm7\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vsvm7\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vsvm7\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vsvm7\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vsvm7\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vsvm7\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vsvm7\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vsvm7\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vsvm7\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vsvm7\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vsvm7\cvsroot\tools\VendavoCheck.bat
+Processing deploy to:\\vsvm9\cvsroot\tools
+Copy E:\cvsroot\tools-management\tools-for-deploy\AddScheduledJobs.bat into file \\vsvm9\cvsroot\tools\AddScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\host-check-0.1.0.jar into file \\vsvm9\cvsroot\tools\host-check-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\HostCheck.bat into file \\vsvm9\cvsroot\tools\HostCheck.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\RemoveScheduledJobs.bat into file \\vsvm9\cvsroot\tools\RemoveScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\rename-wisely-0.1.0.jar into file \\vsvm9\cvsroot\tools\rename-wisely-0.1.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\RenameWisely.bat into file \\vsvm9\cvsroot\tools\RenameWisely.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\ScheduledJobs.bat into file \\vsvm9\cvsroot\tools\ScheduledJobs.bat
+Copy E:\cvsroot\tools-management\tools-for-deploy\SysInternalEula.reg into file \\vsvm9\cvsroot\tools\SysInternalEula.reg
+Copy E:\cvsroot\tools-management\tools-for-deploy\vendavo-check-0.6.0.jar into file \\vsvm9\cvsroot\tools\vendavo-check-0.6.0.jar
+Copy E:\cvsroot\tools-management\tools-for-deploy\VendavoCheck.bat into file \\vsvm9\cvsroot\tools\VendavoCheck.bat
